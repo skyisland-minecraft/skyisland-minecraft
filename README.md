@@ -39,11 +39,11 @@ const skills = {
 
 ## 🛡️ Mes Valeurs
 
-🇫🇷 **Souveraineté numérique** : priorité à l’hébergement local, aux solutions open-source & à la maîtrise de nos outils
-🏛️ **Ordre & discipline** : que ce soit en code, en communauté ou en politique, l’harmonie naît de l’organisation
-🐺 **Furry engagé** : une identité unique, libre, assumée — au-delà des étiquettes
-🗳️ **Droite identitaire** : pour une France forte, enracinée et tournée vers l'avenir
-🛠️ **Responsabilité** : chacun doit maîtriser ses outils, ses actes et ses paroles
+* 🇫🇷 **Souveraineté numérique** : priorité à l’hébergement local, aux solutions open-source & à la maîtrise de nos outils
+* 🏛️ **Ordre & discipline** : que ce soit en code, en communauté ou en politique, l’harmonie naît de l’organisation
+* 🐺 **Furry engagé** : une identité unique, libre, assumée — au-delà des étiquettes
+* 🗳️ **Droite identitaire** : pour une France forte, enracinée et tournée vers l'avenir
+* 🛠️ **Responsabilité** : chacun doit maîtriser ses outils, ses actes et ses paroles
 
 ## 📊 GitHub Stats
 
