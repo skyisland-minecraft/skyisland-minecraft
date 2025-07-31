@@ -80,16 +80,13 @@ Un site qui reflète mes valeurs : clair, structuré, sobre
 ## 📫 Let's Connect!
 
 <div align="center">
+
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/your-server)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:cobalte.patteclaire@gmail.com)
-
-</div>
-
-<div align="center">
 
 **"Construire une tech puissante & enracinée, pour une génération qui refuse de se soumettre."** 🇫🇷
 
 Merci de ta visite, n’hésite pas à explorer mes projets et à me contacter pour une collab —
-**développement, RP, ou même engagement souverainiste**, je suis là.
+**développement**, **RP**, ou même **engagement souverainiste**, je suis là.
 
 </div>
